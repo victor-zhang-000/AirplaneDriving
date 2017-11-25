@@ -14,3 +14,7 @@ Image Processing: Detected polygons patterns with OpenCV and added launching mis
 
 Presentation Slide: 
 https://docs.google.com/presentation/d/1JMkVRynKcB82nzzxlKAgmkq52xPgHlp7sBmI32X0nHc/edit?usp=sharing
+
+Demo Video: 
+https://youtu.be/w8NRTZ_v9KE
+
